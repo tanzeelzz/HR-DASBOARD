@@ -1,0 +1,1 @@
+This Power BI Dashboard is designed to provide human resources professionals with comprehensive insights into employee attrition within an organization. The dashboard is built on Power BI to facilitate data visualization, analysis, and decision-making regarding employee turnover.
